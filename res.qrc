@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/select.png</file>
+        <file>resource/location_1.png</file>
+        <file>resource/char_tiger.jpg</file>
+        <file>resource/char_zhangpeng.jpg</file>
+        <file>resource/location_2.png</file>
+        <file>resource/location_3.png</file>
+        <file>resource/placeholder.jpg</file>
+        <file>resource/attack.png</file>
+        <file>resource/fireball.png</file>
+        <file>resource/char_doge.jpg</file>
+        <file>resource/char_batman.jpg</file>
+        <file>resource/shield.png</file>
+        <file>resource/run.png</file>
+        <file>resource/char_sun.jpg</file>
+        <file>resource/halo.png</file>
+        <file>resource/char_tornado.jpg</file>
+        <file>resource/start.png</file>
+    </qresource>
+</RCC>
